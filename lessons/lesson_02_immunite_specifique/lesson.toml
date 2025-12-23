@@ -24,4 +24,12 @@ type = "MULTIPLE_CHOICE"
 options = ["Atom", "Beef", "Something", "Chicken"]
 correct_answer_index = 3
 weight = 1
-feedback = "Correct! you can read!"
+feedback = "i'm biased to chickens that's why it's the correct answer"
+[[section.quiz.question]]
+id ="q2"
+text = "no clue what to put here x2 so the correct answer is uhhh atom now"
+type = "MULTIPLE_CHOICE"
+options = ["Atom", "Beef", "Something", "Chicken"]
+correct_answer_index = 0
+weight = 1
+feedback = "i'm not biased to atoms but i chose chicken last time so i have to choose something else now"
