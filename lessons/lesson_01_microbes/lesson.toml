@@ -1,6 +1,4 @@
 title = "Microbes"
-description = "Learn about all the types of microbes"
-xp_reward = 120
 [[section]]
 id = "intro"
 type = "SUMMARY"
