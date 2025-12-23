@@ -1,6 +1,4 @@
 title = "Immunité specifique"
-description = "Learn about immunité specifique"
-xp_reward = 120
 [[section]]
 id = "intro"
 type = "SUMMARY"
