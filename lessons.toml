@@ -10,3 +10,7 @@ xp_reward = 150
 id = "lesson_03_immunite_non_specifique"
 order = 3
 xp_reward = 200
+[[lesson]]
+id = "lesson_04_plant"
+order = 3
+xp_reward = 200
