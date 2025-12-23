@@ -1,6 +1,4 @@
 title = "Immunité non specifique"
-description = "Learn about immunité non specifique"
-xp_reward = 200
 [[section]]
 id = "intro"
 type = "SUMMARY"
