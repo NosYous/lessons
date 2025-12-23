@@ -24,4 +24,12 @@ type = "MULTIPLE_CHOICE"
 options = ["Virus", "Bacterie", "Molecule", "Protozoaire"]
 correct_answer_index = 2
 weight = 1
-feedback = "Correct! The Molecule is not a type of microbe!"
+feedback = "The Molecule is not a type of microbe because it's (insert explanation here)!"
+[[section.quiz.question]]
+id ="q2"
+text = "I can't think of anything honestly, just choose protozaire"
+type = "MULTIPLE_CHOICE"
+options = ["Virus", "Bacterie", "Molecule", "Protozoaire"]
+correct_answer_index = 3
+weight = 1
+feedback = "you're right! don't ask why me why though"
