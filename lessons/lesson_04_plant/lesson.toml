@@ -1,0 +1,41 @@
+title = "Plant"
+[[section]]
+id = "intro"
+type = "SUMMARY"
+title = "Comment la plante "
+[section.summary]
+markdown_text = """
+# zdiusqhiddihz 
+i eat **food**.
+"""
+image_urls = ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf2RcuPeMTNttN_NhvDwnkDsCn3-NHtdPW3g&s"]
+[[section]]
+id = "quiz"
+type = "QUIZ"
+title = "Test Yourself"
+[section.quiz]
+passing_score_percent = 70
+[[section.quiz.question]]
+id ="q1"
+text = "comment les plantes vivent"
+type = "MULTIPLE_CHOICE"
+options = ["bathroom", "air", "la vie rose", "burrito"]
+correct_answer_index = 0
+weight = 1
+feedback = "car les bathrooms sont vertes"
+[[section.quiz.question]]
+id ="q2"
+text = "ozhadosh"
+type = "MULTIPLE_CHOICE"
+options = ["zlkjdsq", "zlkdhs", "Something", "Chicken"]
+correct_answer_index = 3
+weight = 1
+feedback = "i'm not biased to atoms but i chose chicken last time so i have to choose something else now"
+[[section.quiz.question]]
+id ="q3"
+text = "zmldihsmlkq"
+type = "MULTIPLE_CHOICE"
+options = ["zlkjdsq", "zlkdhs", "Something", "Chicken"]
+correct_answer_index = 3
+weight = 1
+feedback = "i'm not biased to atoms but i chose chicken last time so i have to choose something else now"
