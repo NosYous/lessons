@@ -1,0 +1,35 @@
+title = "Immunité non specifique"
+description = "Learn about immunité non specifique"
+xp_reward = 200
+[[section]]
+id = "intro"
+type = "SUMMARY"
+title = "What is immunité non specifique?"
+[section.summary]
+markdown_text = """
+# Welcome to immunité specifique!
+**Immunité specifique** is a way that the body does **NOT** kill specifique microbes.
+"""
+image_urls = ["https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ceUenK5wt-dy1vLxo6tDoAHaB8%3Fpid%3DApi%26ucfimg%3D1&f=1&ipt=40c7f0619726ab891537cc32909e1bb45a331b4806c160ab399df8f6a2b49b05&ipo=images"]
+[[section]]
+id = "quiz"
+type = "QUIZ"
+title = "Test Yourself"
+[section.quiz]
+passing_score_percent = 70
+[[section.quiz.question]]
+id ="q1"
+text = "immunité non specifique is..."
+type = "MULTIPLE_CHOICE"
+options = ["specifique", "non specifique", "non'nt specifique", "yes specifique"]
+correct_answer_index = 1
+weight = 1
+feedback = "immunité non specifique is non specifique because..."
+[[section.quiz.question]]
+id ="q2"
+text = "which one of these is NOT in the immunité non specifique"
+type = "MULTIPLE_CHOICE"
+options = ["Adhesion", "ingestion", "digestion", "Chicken"]
+correct_answer_index = 3
+weight = 1
+feedback = "chicken isn't in the human body... i think"
