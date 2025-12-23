@@ -19,9 +19,9 @@ title = "Test Yourself"
 passing_score_percent = 70
 [[section.quiz.question]]
 id ="q1"
-text = ""
-type = "no clue what to put here so the correct answer is chicken"
+text = "no clue what to put here so the correct answer is chicken"
+type = "MULTIPLE_CHOICE"
 options = ["Atom", "Beef", "Something", "Chicken"]
-correct_answer_index = 4
+correct_answer_index = 3
 weight = 1
 feedback = "Correct! you can read!"
