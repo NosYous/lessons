@@ -10,7 +10,7 @@ markdown_text = """
 # Welcome to immunité specifique!
 **Immunité specifique** is a way that the body kills specifique microbes.
 """
-image_urls = [https://imgs.search.brave.com/zBgRoM_kw-VER2sDKVx66bQvYjqdhan74qghJMBOaO8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tc3Nz/LmdvdXYucWMuY2Ev/cHJvZmVzc2lvbm5l/bHMvaW1hZ2VzL3Bp/cS9jZWxsdWxlcy5w/bmc]
+image_urls = ["https://imgs.search.brave.com/zBgRoM_kw-VER2sDKVx66bQvYjqdhan74qghJMBOaO8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tc3Nz/LmdvdXYucWMuY2Ev/cHJvZmVzc2lvbm5l/bHMvaW1hZ2VzL3Bp/cS9jZWxsdWxlcy5w/bmc"]
 [[section]]
 id = "quiz"
 type = "QUIZ"
