@@ -6,9 +6,9 @@ title = "What are microbes?"
 [section.summary]
 markdown_text = """
 # Welcome to Biology!
-Microbes are test v2 **idk**.
+Microbes are something **idk**.
 """
-image_urls = ["https://files.catbox.moe/h0mv50.png"]
+image_urls = [""]
 [[section]]
 id = "quiz"
 type = "QUIZ"
